@@ -1,4 +1,5 @@
-# 14-Model-View-Controller-MVC
+# Challenge14-coding
+
 # Tech Blog
 
 This application is a blog that allows users to create accounts, posts, and comments on posts. Users are able to delete/update their existing posts. Users are automatically logged out after 15 minutes of inactivity.
