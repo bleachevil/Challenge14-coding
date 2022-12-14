@@ -1,12 +1,14 @@
 # Challenge14-coding
 
-# Tech Blog
+## LIBRARY
 
-This application is a blog that allows users to create accounts, posts, and comments on posts. Users are able to delete/update their existing posts. Users are automatically logged out after 15 minutes of inactivity.
+![badge](https://img.shields.io/badge/license-MIT-orange)
 
-The deployed application can be found [here](https://esd-14-tech-blog.herokuapp.com/). The application's GitHub repository can be found [here](https://github.com/elisesamanthadaly/14-Model-View-Controller-MVC).
+## Description
 
+Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
 
+The deployed application can be found [here](https://challenge14-coding.herokuapp.com/). 
 ## Usage
 
 Existing posts can be viewed on the homepage.
@@ -17,7 +19,8 @@ After logging in/signing up, new posts can be created on the "Dashboard" screen.
 
 On the homepage (click the "Home" link in the navigation bar), click an individual post to view or add comments to it.
 
-![alt text](./assets/images/screencast.gif)
+
+![image](https://user-images.githubusercontent.com/16517540/207488493-ef941e64-65d7-4b43-8dc9-9a336fddd576.png)
 
 
 ## Credits
@@ -36,10 +39,9 @@ This application relies on the following npm packages:
 
 
 ## License
+![badge](https://img.shields.io/badge/license-MIT-orange)
 
-MIT License
-
-Copyright (c) 2021 Elise Daly
+Copyright (c) [2022] [Jeff Zhang]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -58,3 +60,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Developers
+* Jeff Zhang
